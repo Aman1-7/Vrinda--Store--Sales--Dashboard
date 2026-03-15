@@ -15,4 +15,4 @@ This project analyzes the annual sales performance of Vrinda Store using an inte
 - Maharashtra is the top performing state.
 - 92% of orders are successfully delivered.
 ## Dashboard Preview
-![]()
+![Vrinda Store Dashboard](vrinda_store_dashboard.png)
